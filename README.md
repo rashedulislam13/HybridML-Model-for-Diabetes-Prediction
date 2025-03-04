@@ -1,4 +1,4 @@
-# HybridML-Model-for-Diabetes-Prediction[Published paper.pdf](https://github.com/user-attachments/files/19071414/Published.paper.pdf)
+# HybridML-Model-for-Diabetes-Prediction   [Published paper.pdf](https://github.com/user-attachments/files/19071414/Published.paper.pdf)
 
 Type 2 diabetes mellitus (T2DM) is a major global health issue that significantly reduces life expectancy and
 impairs overall quality of life. Early diagnosis of T2DM is critical, as it can help prevent or delay the
